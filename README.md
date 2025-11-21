@@ -4,6 +4,7 @@
 스프링부트와파이썬AI협업모듈
 
 개발환경구축
+<img width="2813" height="1372" alt="image" src="https://github.com/user-attachments/assets/29f99257-4056-4782-a172-e77c8296eb35" />
 
 파이썬 인터프리터 : http://www.python.org/ -> 3.12버전 설치(3.8이상필수)
 
